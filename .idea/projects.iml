@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/lastWork/tests" isTestSource="true" packagePrefix="Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/lastWork/app" isTestSource="false" packagePrefix="App\" />
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/lastWork/database/seeders" isTestSource="false" packagePrefix="Database\Seeders\" />
+      <sourceFolder url="file://$MODULE_DIR$/lastWork/database/factories" isTestSource="false" packagePrefix="Database\Factories\" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/asm89/stack-cors" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/brick/math" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/dnoegel/php-xdg-base-dir" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/dragonmantank/cron-expression" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/egulias/email-validator" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/facade/flare-client-php" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/facade/ignition" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/facade/ignition-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/fideloper/proxy" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/filp/whoops" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/fruitcake/laravel-cors" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/fzaninotto/faker" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/graham-campbell/result-type" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/guzzlehttp/guzzle" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/guzzlehttp/promises" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/guzzlehttp/psr7" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/hamcrest/hamcrest-php" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/laravel/framework" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/laravel/tinker" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/lcobucci/jwt" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/league/commonmark" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/league/flysystem" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/mockery/mockery" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/myclabs/deep-copy" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/namshi/jose" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/nesbot/carbon" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/nunomaduro/collision" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/opis/closure" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/paragonie/random_compat" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/phar-io/manifest" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/phar-io/version" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/phpdocumentor/reflection-common" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/phpdocumentor/reflection-docblock" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/phpdocumentor/type-resolver" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/phpoption/phpoption" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/phpspec/prophecy" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/phpunit/php-code-coverage" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/phpunit/php-file-iterator" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/phpunit/php-invoker" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/phpunit/php-text-template" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/phpunit/php-timer" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/phpunit/phpunit" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/psr/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/psr/http-client" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/psy/psysh" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/ralouphie/getallheaders" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/ramsey/collection" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/ramsey/uuid" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/scrivo/highlight.php" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/sebastian/cli-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/sebastian/code-unit" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/sebastian/code-unit-reverse-lookup" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/sebastian/comparator" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/sebastian/complexity" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/sebastian/diff" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/sebastian/environment" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/sebastian/exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/sebastian/global-state" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/sebastian/lines-of-code" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/sebastian/object-enumerator" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/sebastian/object-reflector" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/sebastian/recursion-context" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/sebastian/resource-operations" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/sebastian/type" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/sebastian/version" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/swiftmailer/swiftmailer" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/symfony/css-selector" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/symfony/error-handler" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/symfony/event-dispatcher-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/symfony/http-client-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/symfony/mime" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/symfony/polyfill-iconv" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/symfony/polyfill-intl-grapheme" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/symfony/polyfill-intl-idn" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/symfony/polyfill-intl-normalizer" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/symfony/polyfill-php56" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/symfony/polyfill-php70" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/symfony/polyfill-php72" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/symfony/polyfill-php73" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/symfony/polyfill-util" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/symfony/process" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/symfony/routing" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/symfony/string" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/symfony/translation" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/symfony/translation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/symfony/var-dumper" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/theseer/tokenizer" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/tijsverkoyen/css-to-inline-styles" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/tymon/jwt-auth" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/vlucas/phpdotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/voku/portable-ascii" />
+      <excludeFolder url="file://$MODULE_DIR$/lastWork/vendor/webmozart/assert" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

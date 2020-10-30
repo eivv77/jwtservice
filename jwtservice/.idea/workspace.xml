@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d4f4f53-0a69-477a-92f5-132207d98201" name="Default Changelist" comment="" />
+    <list default="true" id="2d4f4f53-0a69-477a-92f5-132207d98201" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +17,9 @@
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -141,6 +148,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1iu5PYw1iEYoC10sniFmvKvnyJ7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -149,8 +157,9 @@
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../demoveysel" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -173,6 +182,9 @@
       <workItem from="1602941610045" duration="6936000" />
       <workItem from="1603085640831" duration="10418000" />
       <workItem from="1603269028957" duration="259000" />
+      <workItem from="1603879405702" duration="3911000" />
+      <workItem from="1603964544555" duration="22000" />
+      <workItem from="1603966113709" duration="4090000" />
     </task>
     <servers />
   </component>
@@ -193,20 +205,24 @@
     </state>
     <state x="2610" y="280" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1602764480414" />
     <state x="552" y="222" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1536.834@0.0.1536.834" timestamp="1602945522254" />
-    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1603269288215">
+    <state x="2606" y="217" key="FileChooserDialogImpl" timestamp="1603967638398">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1603964558342" />
+    <state x="2606" y="217" key="FileChooserDialogImpl/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1603967638398" />
+    <state x="277" y="62" key="SettingsEditor" timestamp="1603882810075">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1603269288215" />
-    <state x="2606" y="217" key="FileChooserDialogImpl/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1602760450559" />
+    <state x="277" y="62" key="SettingsEditor/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1603882810075" />
     <state x="2536" y="243" key="run.anything.popup" timestamp="1602747849693">
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
     <state x="2536" y="243" key="run.anything.popup/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1602747849693" />
-    <state x="498" y="180" width="672" height="539" key="search.everywhere.popup" timestamp="1603098767243">
+    <state x="498" y="180" width="672" height="539" key="search.everywhere.popup" timestamp="1603973750850">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="498" y="180" width="672" height="539" key="search.everywhere.popup/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1603098767243" />
-    <state x="2543" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1602757506144" />
+    <state x="498" y="180" width="672" height="539" key="search.everywhere.popup/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1603973750850" />
+    <state x="2543" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1603966413161" />
     <state x="498" y="180" width="672" height="539" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1602946102487" />
   </component>
 </project>
